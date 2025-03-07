@@ -28,7 +28,7 @@
               pkgs.html-tidy
               pkgs.marksman
               pkgs.nodejs
-              pkgs.pnpm
+              pkgs.pnpm_9
               pkgs.typescript
               pkgs.tailwindcss-language-server
               pkgs.typescript-language-server
